@@ -1,5 +1,3 @@
-# cyberspace021
-comprehensive network scanning and analysis
 # NEScan (Network Scanner)
 
 <p align="center">
